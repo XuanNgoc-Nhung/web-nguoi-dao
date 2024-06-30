@@ -32,10 +32,8 @@
                 </div>
                 <div class="col-lg-9 col-12 col-right-ac">
                     <h1 class="title-head margin-top-0">Đơn hàng của bạn</h1>
-
                     <div class="my-account">
                         <div class="dashboard">
-
                             <div class="recent-orders">
                                 <div class="table-responsive-block tab-all" style="overflow-x:auto;">
                                     <table class="table table-cart table-order" id="my-orders-table">
@@ -69,7 +67,6 @@
                                 </div>
                             </div>
                         </div>
-
                     </div>
 
                 </div>

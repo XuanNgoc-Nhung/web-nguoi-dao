@@ -19,6 +19,12 @@
          width: 100%;
          height: 200px;
      }
+     .error{
+         color: red;
+     }
+     .text-center{
+         text-align: center;
+     }
 </style>
 <link rel="stylesheet" href="/css/bootstrap-4-3-min.css">
 <link href="/user/css/index.scss.css" rel="stylesheet" type="text/css"   />

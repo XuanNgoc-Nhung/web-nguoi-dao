@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Siêu thị SAKURA | Hàng Nhật nội địa & Sakura Beauty | SAKURA Store </title>
     @include('user.layouts.css')
+    @yield('css-custom')
 </head>
 <body>
 <div class="opacity_menu"></div>
