@@ -17,4 +17,5 @@
     @include('user.layouts.js')
 </div>
 </body>
+
 </html>
